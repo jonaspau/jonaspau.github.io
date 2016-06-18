@@ -1,0 +1,55 @@
+/* testweb.css - Styles for the test site */ 
+h1, h2, h3, h4, p, a, ol, ul { color: white; } 
+h1, h2, h3, h4 { font-family: Garamond; Serif; }
+p, a, div, ol, ul { font-family: Verdana ; Sans Serif; }
+
+h1 { font-size: 26pt; text-align: center; } 
+h2 { font-size: 16pt; }
+h3 { font-size: 14pt; } 
+h4 { font-size: 12pt; } 
+
+p, ol, ul { font-size: 10pt; 
+	text-align:justify; }
+
+body { background-color: black; 
+	margin:0px 115px; 
+	width: 1024; }
+	
+table { table-layout:auto; 
+	color:white;
+	font-family: Verdana; 
+	font-size: 10pt; 
+	border-collapse:collapse; 
+	text-align:center; }
+
+.menu { color:white;
+	font-family: Verdana; 
+	font-size: 10pt; 
+	text-align: center;
+	text-decoration:none; }
+
+.header { margin-top: 10px;
+	margin-bottom: 5px;
+	color: white;
+	background-color: black;
+	text-align: center;
+	font-family: Verdana ; Sans Serif; }
+	
+.footer { margin-top: 10px;
+	margin-bottom: 3px;
+	color: white;
+	background-color: black;
+	font-size: 8pt;
+	text-align: center;
+	font-family: Verdana ; Sans Serif; }
+	
+#leftcolumn { color: white;
+	width: 100px;
+	float: left;
+	font-family: Verdana; Sans Serif;
+	font-size: 10pt;
+	text-align: left; }
+
+
+#rightcolumn { color: white;
+	margin-left: 115px }
