@@ -43,6 +43,14 @@ table { table-layout:auto;
 	text-align: center;
 	font-family: Verdana ; Sans Serif; }
 	
+.intro {margin-top: 10px;
+	margin-bottom: 5px;
+	color: white;
+	background-color: black;
+    font-size:14pt;
+	text-align: center;
+	font-family: Verdana ; Sans Serif; }
+
 #leftcolumn { color: white;
 	width: 100px;
 	float: left;
