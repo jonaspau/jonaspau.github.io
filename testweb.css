@@ -22,20 +22,20 @@ table { table-layout:auto;
 	border-collapse:collapse; 
 	text-align:center; }
 
-.menu { color:white;
+.top-menu { color:white;
 	font-family: Verdana; 
 	font-size: 10pt; 
 	text-align: center;
 	text-decoration:none; }
 
-.header { margin-top: 10px;
+#header { margin-top: 10px;
 	margin-bottom: 5px;
 	color: white;
 	background-color: black;
 	text-align: center;
 	font-family: Verdana ; Sans Serif; }
 	
-.footer { margin-top: 10px;
+#footer { margin-top: 10px;
 	margin-bottom: 3px;
 	color: white;
 	background-color: black;
@@ -43,7 +43,7 @@ table { table-layout:auto;
 	text-align: center;
 	font-family: Verdana ; Sans Serif; }
 	
-.intro {margin-top: 10px;
+#intro {margin-top: 10px;
 	margin-bottom: 5px;
 	color: white;
 	background-color: black;
@@ -52,7 +52,7 @@ table { table-layout:auto;
 	font-family: Verdana ; Sans Serif; }
 
 #leftcolumn { color: white;
-	width: 100px;
+	width: 150px;
 	float: left;
 	font-family: Verdana; Sans Serif;
 	font-size: 10pt;
@@ -60,4 +60,4 @@ table { table-layout:auto;
 
 
 #rightcolumn { color: white;
-	margin-left: 115px }
+	margin-left: 165px }
