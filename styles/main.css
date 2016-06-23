@@ -2,3 +2,6 @@
   max-height: 20vh;
   float: right;
 }
+#top {
+  padding-top: 5vh;
+}
