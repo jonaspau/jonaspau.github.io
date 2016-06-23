@@ -2,6 +2,6 @@
   max-height: 20vh;
   float: right;
 }
-#top {
+.page-header {
   padding-top: 5vh;
 }
