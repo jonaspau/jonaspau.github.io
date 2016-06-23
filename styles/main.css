@@ -1,7 +1,24 @@
+h1,h2,h3,h4,h5,h6{
+  font-family:Josefin Sans;
+}
+p,ul,li{
+  font-family:Raleway;
+}
+.text-primary{
+  color:black;
+}
 .img-head {
   max-height: 20vh;
   float: right;
+  border: blue;
+
 }
-.page-header {
-  padding-top: 5vh;
+main, footer {
+  padding:3vh;
+}
+.img-social {
+  max-height:50px;
+}
+.social-links {
+  display:center;
 }
