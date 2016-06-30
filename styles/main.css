@@ -32,3 +32,8 @@ main, footer {
 .img-social {
   max-height:50px;
 }
+
+.img-portfolio {
+  height: 10vh;
+  max-height: 100px
+}
