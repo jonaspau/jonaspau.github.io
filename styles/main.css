@@ -10,9 +10,10 @@ h2 {
   font-size: 36px;
 }
 
-p,ul,li{
+p,ul,li, i{
   font-family:Raleway;
-  font-size: 18px
+  font-size: 18px;
+  color: #333;
 }
 
 .text-primary{
@@ -35,4 +36,8 @@ main, footer {
 
 .img-portfolio {
   height: 40vh;
+}
+
+.fa-icon {
+  color: #333;
 }
