@@ -1,9 +1,11 @@
-function loadBootstrap() {
-    fetch('bootstrap.html')
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('bootstrap-container').innerHTML = data;
-        });
-}
+<script>
+        function loadBootstrap() {
+            fetch('bootstrap.html')
+                .then(response => response.text())
+                .then(data => {
+                    document.write(data);
+                });
+        }
 
-document.addEventListener('DOMContentLoaded', loadBootstrap);
+        document.addEventListener('DOMContentLoaded', loadBootstrap);
+    </script>
