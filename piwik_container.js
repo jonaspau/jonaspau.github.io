@@ -8,5 +8,9 @@
 })(window, document, 'dataLayer', '9a332780-e369-46d6-92ed-af40368d5ff9');
 
 (function() {
+    defer src="https://cloud.umami.is/script.js" data-website-id="884fc877-0d74-4a75-a573-c0b3b5c7db3a"
+})
+
+(function() {
     console.log('Tracking script loaded');
 })();
